@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1802/trunk/dim3Editor/Sources/dialogs/map
+END
+dialog_free_rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/map/dialog_free_rotate.c
+END
+dialog_height_map_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/map/dialog_height_map_import.c
+END
+dialog_obj_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/map/dialog_obj_import.c
+END
+dialog_grid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/map/dialog_grid.c
+END
+dialog_new_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/map/dialog_new_map.c
+END
+dialog_distort.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1802/trunk/dim3Editor/Sources/dialogs/map/dialog_distort.c
+END

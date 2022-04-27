@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1855/trunk/dim3Editor/Sources/palettes/model
+END
+model_palette_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1855/trunk/dim3Editor/Sources/palettes/model/model_palette_model.c
+END
+model_palette_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1834/trunk/dim3Editor/Sources/palettes/model/model_palette_texture.c
+END
+model_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/model/model_palette.c
+END
+model_palette_bone.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_bone.c
+END
+model_palette_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_main.c
+END
+model_palette_pose.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_pose.c
+END
+model_palette_bone_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_bone_move.c
+END
+model_palette_pose_move_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_pose_move_ring.c
+END
+model_palette_hit_box.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_hit_box.c
+END
+model_palette_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1794/trunk/dim3Editor/Sources/palettes/model/model_palette_mesh.c
+END
+model_palette_pose_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_pose_move.c
+END
+model_palette_pose_move_particle.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_pose_move_particle.c
+END
+model_palette_animation.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/model/model_palette_animation.c
+END

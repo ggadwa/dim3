@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2044/trunk/dim3ModelUtility/Sources
+END
+model_util_draw_vertexes.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1519/trunk/dim3ModelUtility/Sources/model_util_draw_vertexes.c
+END
+model_util_draw_bones.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2007/trunk/dim3ModelUtility/Sources/model_util_draw_bones.c
+END
+model_util_bone.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1401/trunk/dim3ModelUtility/Sources/model_util_bone.c
+END
+model_util_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2027/trunk/dim3ModelUtility/Sources/model_util_main.c
+END
+model_util_positions.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1752/trunk/dim3ModelUtility/Sources/model_util_positions.c
+END
+model_util_draw_normals.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1644/trunk/dim3ModelUtility/Sources/model_util_draw_normals.c
+END
+model_util_file_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1850/trunk/dim3ModelUtility/Sources/model_util_file_mesh.c
+END
+model_util_hit_box.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1340/trunk/dim3ModelUtility/Sources/model_util_hit_box.c
+END
+model_util_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2027/trunk/dim3ModelUtility/Sources/model_util_mesh.c
+END
+model_util_calculate.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1340/trunk/dim3ModelUtility/Sources/model_util_calculate.c
+END
+model_util_file_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1873/trunk/dim3ModelUtility/Sources/model_util_file_model.c
+END
+model_util_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2044/trunk/dim3ModelUtility/Sources/model_util_texture.c
+END
+model_util_file_pose.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1617/trunk/dim3ModelUtility/Sources/model_util_file_pose.c
+END
+model_util_pose.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1340/trunk/dim3ModelUtility/Sources/model_util_pose.c
+END
+model_util_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1387/trunk/dim3ModelUtility/Sources/model_util_lookup.c
+END
+model_util_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1898/trunk/dim3ModelUtility/Sources/model_util_size.c
+END
+model_util_normals.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1400/trunk/dim3ModelUtility/Sources/model_util_normals.c
+END
+model_util_transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1694/trunk/dim3ModelUtility/Sources/model_util_transform.c
+END
+model_util_file_animate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1781/trunk/dim3ModelUtility/Sources/model_util_file_animate.c
+END
+model_util_frames.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1340/trunk/dim3ModelUtility/Sources/model_util_frames.c
+END
+model_util_draw_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1756/trunk/dim3ModelUtility/Sources/model_util_draw_setup.c
+END
+model_util_animation.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1781/trunk/dim3ModelUtility/Sources/model_util_animation.c
+END

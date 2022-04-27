@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1914/trunk/winBuild/Common/Headers
+END
+win32_os_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1914/trunk/winBuild/Common/Headers/win32_os_defs.h
+END

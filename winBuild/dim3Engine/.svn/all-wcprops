@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2001/trunk/winBuild/dim3Engine
+END
+dim3Engine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2001/trunk/winBuild/dim3Engine/dim3Engine.vcproj
+END
+dim3Engine.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1119/trunk/winBuild/dim3Engine/dim3Engine.rc
+END
+dim3Engine.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1107/trunk/winBuild/dim3Engine/dim3Engine.exe.manifest
+END
+dim3Engine.ico
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1119/trunk/winBuild/dim3Engine/dim3Engine.ico
+END
+dim3Engine.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/583/trunk/winBuild/dim3Engine/dim3Engine.sln
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1119/trunk/winBuild/dim3Engine/resource.h
+END

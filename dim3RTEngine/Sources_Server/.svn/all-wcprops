@@ -1,0 +1,1151 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server
+END
+script_model_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_mesh.c
+END
+script_proj_hit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_hit.c
+END
+script_obj_motion_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_motion_vector.c
+END
+script_map_spot.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_spot.c
+END
+obj_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_action.c
+END
+weapon_projectile.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/weapon_projectile.c
+END
+model_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/model_mesh.c
+END
+script_map_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_info.c
+END
+script_camera_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_state.c
+END
+script_model_spin.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_spin.c
+END
+script_camera_chase.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_chase.c
+END
+script_interface_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_bitmap.c
+END
+script_proj_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_position.c
+END
+obj_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_spawn.c
+END
+script_model_animation.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_animation.c
+END
+script_multiplayer_score.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_multiplayer_score.c
+END
+script_obj_hit_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_hit_position.c
+END
+map_collide_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/map_collide_setup.c
+END
+script_map_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_light.c
+END
+map_collide_xz.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/map_collide_xz.c
+END
+camera_chase.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/camera_chase.c
+END
+script_utility_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_utility_angle.c
+END
+script_obj_vehicle.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_vehicle.c
+END
+obj_watch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_watch.c
+END
+projectile_hit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/projectile_hit.c
+END
+script_obj_object_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_object_speed.c
+END
+script_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_event.c
+END
+script_obj_hit_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_hit_angle.c
+END
+obj_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_state.c
+END
+script_map_movement.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_movement.c
+END
+script_weap_recoil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_recoil.c
+END
+model_fade.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/model_fade.c
+END
+obj_auto_walk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_auto_walk.c
+END
+xml_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1934/trunk/dim3RTEngine/Sources_Server/xml_setup.c
+END
+script_interface_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/script_interface_screen.c
+END
+script_obj_turn_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_turn_speed.c
+END
+script_map_light_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_light_color.c
+END
+map_movement.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/map_movement.c
+END
+scripts_convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_convert.c
+END
+script_proj_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_size.c
+END
+script_proj_motion_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_motion_angle.c
+END
+script_obj_score.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_score.c
+END
+script_map_fog.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_fog.c
+END
+camera_fpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/camera_fpp.c
+END
+script_interface_radar.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_radar.c
+END
+script_weap_hand_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_hand_position.c
+END
+projectile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1921/trunk/dim3RTEngine/Sources_Server/projectile.c
+END
+script_obj_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_angle.c
+END
+map_multiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/map_multiplayer.c
+END
+script_point_angle_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_point_angle_vector.c
+END
+script_obj_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_lock.c
+END
+script_obj_watch_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_watch_position.c
+END
+script_interface_bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_bar.c
+END
+obj_grow.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_grow.c
+END
+script_camera_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/script_camera_setting.c
+END
+script_model_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_light.c
+END
+model_effect.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/model_effect.c
+END
+script_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_sound.c
+END
+script_singleplayer_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_singleplayer_setting.c
+END
+script_weap_hand_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_hand_angle.c
+END
+scripts_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_data.c
+END
+script_weap_fire.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_fire.c
+END
+projectile_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/projectile_move.c
+END
+effects_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/effects_spawn.c
+END
+scripts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/scripts.c
+END
+script_weap_alt_ammo.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_alt_ammo.c
+END
+objects.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1937/trunk/dim3RTEngine/Sources_Server/objects.c
+END
+script_obj_held.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_held.c
+END
+script_map_fog_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_fog_color.c
+END
+script_weap_crosshair_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_crosshair_color.c
+END
+script_proj_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_action.c
+END
+script_obj_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_setting.c
+END
+model_draw_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/model_draw_setup.c
+END
+map_collide_y.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/map_collide_y.c
+END
+model.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/model.c
+END
+script_weap_projectile.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_projectile.c
+END
+script_camera_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_position.c
+END
+script_proj_motion_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_motion_vector.c
+END
+obj_held.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_held.c
+END
+script_map_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_node.c
+END
+script_obj_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_weapon.c
+END
+script_interface_interaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_interaction.c
+END
+script_weap_target_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_target_color.c
+END
+script_weap_dual.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_dual.c
+END
+script_model_bone.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_bone.c
+END
+script_weap_melee.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_melee.c
+END
+script_multiplayer_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_multiplayer_setting.c
+END
+script_script.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_script.c
+END
+script_interface_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_text.c
+END
+weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1937/trunk/dim3RTEngine/Sources_Server/weapon.c
+END
+script_game_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_game_setting.c
+END
+script_camera_plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_plane.c
+END
+script_proj_push.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_push.c
+END
+script_weap_crosshair.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_crosshair.c
+END
+script_map_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_setting.c
+END
+script_multiplayer_bot.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_multiplayer_bot.c
+END
+weapon_melee.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/weapon_melee.c
+END
+script_weap_kickback.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_kickback.c
+END
+obj_rigid_body.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_rigid_body.c
+END
+script_obj_melee.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_melee.c
+END
+map_ray_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/map_ray_trace.c
+END
+script_obj_radar.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_radar.c
+END
+script_map_polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_polygon.c
+END
+script_camera_chase_track_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_chase_track_angle.c
+END
+projectile_hitscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/projectile_hitscan.c
+END
+scripts_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/scripts_events.c
+END
+script_proj_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_speed.c
+END
+obj_liquid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_liquid.c
+END
+script_obj_health.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_health.c
+END
+scripts_defines.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/scripts_defines.c
+END
+script_obj_watch.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_watch.c
+END
+scripts_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_file.c
+END
+game_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/game_time.c
+END
+weapon_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/weapon_select.c
+END
+script_obj_watch_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_watch_angle.c
+END
+script_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_data.c
+END
+script_obj_touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_touch.c
+END
+scripts_objects.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/scripts_objects.c
+END
+obj_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_move.c
+END
+script_utility_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1921/trunk/dim3RTEngine/Sources_Server/script_utility_point.c
+END
+group_change.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/group_change.c
+END
+script_obj_forward_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_forward_speed.c
+END
+script_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_color.c
+END
+script_obj_hit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_hit.c
+END
+script_obj_click.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_click.c
+END
+script_obj_touch_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_touch_angle.c
+END
+script_weap_crosshair_empty_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_crosshair_empty_color.c
+END
+script_model_light_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_light_color.c
+END
+scripts_timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_timers.c
+END
+script_camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera.c
+END
+script_singleplayer_high_score.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_singleplayer_high_score.c
+END
+obj_ext_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_ext_move.c
+END
+script_camera_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_angle.c
+END
+script_singleplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_singleplayer.c
+END
+script_obj_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_position.c
+END
+camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/camera.c
+END
+remote.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1937/trunk/dim3RTEngine/Sources_Server/remote.c
+END
+script_proj_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_setting.c
+END
+script_map_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_action.c
+END
+item.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/item.c
+END
+script_obj_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_status.c
+END
+script_proj_origin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_origin.c
+END
+script_weap_crosshair_pickup_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_crosshair_pickup_color.c
+END
+script_obj_pickup.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_pickup.c
+END
+script_weap_hand.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_hand.c
+END
+script_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_spawn.c
+END
+script_weap_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_setting.c
+END
+effects.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/effects.c
+END
+scripts_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_lookup.c
+END
+obj_turn.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/obj_turn.c
+END
+script_obj_look.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_look.c
+END
+script_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model.c
+END
+script_weap_zoom.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_zoom.c
+END
+script_obj_touch_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_touch_position.c
+END
+script_weap_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_target.c
+END
+script_utility_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_utility_random.c
+END
+script_utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_utility.c
+END
+script_obj_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_size.c
+END
+script_weap_ammo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_weap_ammo.c
+END
+script_obj_motion_angle.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_motion_angle.c
+END
+server_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/server_run.c
+END
+script_model_offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_offset.c
+END
+script_multiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_multiplayer.c
+END
+model_animate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1920/trunk/dim3RTEngine/Sources_Server/model_animate.c
+END
+camera_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2058/trunk/dim3RTEngine/Sources_Server/camera_static.c
+END
+script_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map.c
+END
+script_model_rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_rotate.c
+END
+script_proj_melee.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_proj_melee.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/server.c
+END
+script_interface_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_console.c
+END
+script_camera_static_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_static_position.c
+END
+scenery.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1937/trunk/dim3RTEngine/Sources_Server/scenery.c
+END
+obj_find.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/obj_find.c
+END
+script_camera_chase_slop.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_camera_chase_slop.c
+END
+script_obj_weapon_fire.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_weapon_fire.c
+END
+script_map_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_group.c
+END
+script_obj_vert_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_vert_speed.c
+END
+projectile_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/projectile_setup.c
+END
+rings.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1921/trunk/dim3RTEngine/Sources_Server/rings.c
+END
+script_obj_side_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_side_speed.c
+END
+group_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1938/trunk/dim3RTEngine/Sources_Server/group_move.c
+END
+script_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface.c
+END
+particles.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1921/trunk/dim3RTEngine/Sources_Server/particles.c
+END
+scripts_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/scripts_state.c
+END
+script_map_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_map_object.c
+END
+script_model_halo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_halo.c
+END
+script_model_fill.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_model_fill.c
+END
+script_interface_virtual_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_interface_virtual_control.c
+END
+script_obj_sight.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_sight.c
+END
+script_obj_object_thrust.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_object_thrust.c
+END
+script_obj_label.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_Server/script_obj_label.c
+END

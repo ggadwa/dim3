@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2042/trunk/dim3Editor/Sources/code/map
+END
+map_view_draw_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view_draw_mesh.c
+END
+map_import_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/code/map/map_import_obj.c
+END
+map_undo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/map/map_undo.c
+END
+map_view_picker.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/map/map_view_picker.c
+END
+map_nodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/map/map_nodes.c
+END
+map_pieces.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2036/trunk/dim3Editor/Sources/code/map/map_pieces.c
+END
+map_view_auto_generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2042/trunk/dim3Editor/Sources/code/map/map_view_auto_generator.c
+END
+map_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view.c
+END
+map_view_click_drag.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1811/trunk/dim3Editor/Sources/code/map/map_view_click_drag.c
+END
+map_view_models.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view_models.c
+END
+map_texture_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/code/map/map_texture_palette.c
+END
+map_groups.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1751/trunk/dim3Editor/Sources/code/map/map_groups.c
+END
+map_view_vbo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/map/map_view_vbo.c
+END
+map_liquid_reflection_maps.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/code/map/map_liquid_reflection_maps.c
+END
+map_view_clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2028/trunk/dim3Editor/Sources/code/map/map_view_clip.c
+END
+map_view_click_piece.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view_click_piece.c
+END
+map_pieces_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1797/trunk/dim3Editor/Sources/code/map/map_pieces_mesh.c
+END
+map_view_movement.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2025/trunk/dim3Editor/Sources/code/map/map_view_movement.c
+END
+map_selection.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_selection.c
+END
+map_dos.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_dos.c
+END
+map_view_handle.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2028/trunk/dim3Editor/Sources/code/map/map_view_handle.c
+END
+map_view_draw_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view_draw_select.c
+END
+map_light_maps.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1964/trunk/dim3Editor/Sources/code/map/map_light_maps.c
+END
+map_pieces_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1837/trunk/dim3Editor/Sources/code/map/map_pieces_create.c
+END
+map_view_draw_piece.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2029/trunk/dim3Editor/Sources/code/map/map_view_draw_piece.c
+END

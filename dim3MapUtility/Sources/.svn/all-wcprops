@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2036/trunk/dim3MapUtility/Sources
+END
+map_util_nodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1597/trunk/dim3MapUtility/Sources/map_util_nodes.c
+END
+map_util_spots.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1340/trunk/dim3MapUtility/Sources/map_util_spots.c
+END
+map_util_normals.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2025/trunk/dim3MapUtility/Sources/map_util_normals.c
+END
+map_util_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1963/trunk/dim3MapUtility/Sources/map_util_read.c
+END
+map_util_frames.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2019/trunk/dim3MapUtility/Sources/map_util_frames.c
+END
+map_util_movements.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1340/trunk/dim3MapUtility/Sources/map_util_movements.c
+END
+map_util_groups.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1340/trunk/dim3MapUtility/Sources/map_util_groups.c
+END
+map_util_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1963/trunk/dim3MapUtility/Sources/map_util_main.c
+END
+map_util_liquid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1382/trunk/dim3MapUtility/Sources/map_util_liquid.c
+END
+map_util_liquid_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1739/trunk/dim3MapUtility/Sources/map_util_liquid_update.c
+END
+map_util_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1963/trunk/dim3MapUtility/Sources/map_util_write.c
+END
+map_util_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1950/trunk/dim3MapUtility/Sources/map_util_mesh.c
+END
+map_util_cinema.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1340/trunk/dim3MapUtility/Sources/map_util_cinema.c
+END
+map_util_prepare.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1797/trunk/dim3MapUtility/Sources/map_util_prepare.c
+END
+map_util_mesh_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2036/trunk/dim3MapUtility/Sources/map_util_mesh_update.c
+END
+map_util_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2019/trunk/dim3MapUtility/Sources/map_util_texture.c
+END

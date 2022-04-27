@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1950/trunk/dim3Editor/Sources/code/common
+END
+texture_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1950/trunk/dim3Editor/Sources/code/common/texture_palette.c
+END
+xml_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/common/xml_setup.c
+END
+import_text_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1710/trunk/dim3Editor/Sources/code/common/import_text_decode.c
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/common/text.c
+END
+progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/code/common/progress.c
+END
+texture_edit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1751/trunk/dim3Editor/Sources/code/common/texture_edit.c
+END
+tool_tip.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/code/common/tool_tip.c
+END
+launch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/common/launch.c
+END

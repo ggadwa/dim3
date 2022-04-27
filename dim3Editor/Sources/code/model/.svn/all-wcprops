@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2045/trunk/dim3Editor/Sources/code/model
+END
+model_texture_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2038/trunk/dim3Editor/Sources/code/model/model_texture_palette.c
+END
+model_draw_axis_boxes.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/model/model_draw_axis_boxes.c
+END
+model_poly_masks.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2031/trunk/dim3Editor/Sources/code/model/model_poly_masks.c
+END
+model_draw_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2027/trunk/dim3Editor/Sources/code/model/model_draw_window.c
+END
+model_dos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2045/trunk/dim3Editor/Sources/code/model/model_dos.c
+END
+model_piece.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/code/model/model_piece.c
+END
+model_texture_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/model/model_texture_import.c
+END
+model_draw_selection.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1835/trunk/dim3Editor/Sources/code/model/model_draw_selection.c
+END
+model_obj_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1771/trunk/dim3Editor/Sources/code/model/model_obj_import.c
+END
+model_insert.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1727/trunk/dim3Editor/Sources/code/model/model_insert.c
+END
+model_undo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/model/model_undo.c
+END
+model_play.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1756/trunk/dim3Editor/Sources/code/model/model_play.c
+END
+model_vertex_transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1872/trunk/dim3Editor/Sources/code/model/model_vertex_transform.c
+END
+model_vertex_masks.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1727/trunk/dim3Editor/Sources/code/model/model_vertex_masks.c
+END
+model_draw_mesh_bone.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2027/trunk/dim3Editor/Sources/code/model/model_draw_mesh_bone.c
+END
+model_click_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2027/trunk/dim3Editor/Sources/code/model/model_click_window.c
+END
+model_draw_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2028/trunk/dim3Editor/Sources/code/model/model_draw_model.c
+END
+model_picker.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1709/trunk/dim3Editor/Sources/code/model/model_picker.c
+END

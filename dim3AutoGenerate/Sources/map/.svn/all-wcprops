@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2058/trunk/dim3AutoGenerate/Sources/map
+END
+map_auto_generate.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2058/trunk/dim3AutoGenerate/Sources/map/map_auto_generate.c
+END
+map_auto_generate_story.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2042/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_story.c
+END
+map_auto_generate_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2058/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_setup.c
+END
+map_auto_generate_utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2042/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_utility.c
+END
+map_auto_generate_decoration.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2042/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_decoration.c
+END
+map_auto_generate_primitive.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2042/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_primitive.c
+END
+map_auto_generate_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2042/trunk/dim3AutoGenerate/Sources/map/map_auto_generate_connect.c
+END

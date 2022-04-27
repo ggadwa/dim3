@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2054/trunk/dim3BaseUtility/Sources
+END
+base_iface_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_action.c
+END
+base_ag_bitmap_utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2047/trunk/dim3BaseUtility/Sources/base_ag_bitmap_utility.c
+END
+base_iface_crosshairs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_crosshairs.c
+END
+base_math_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_vector.c
+END
+base_math_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1663/trunk/dim3BaseUtility/Sources/base_math_matrix.c
+END
+base_bitmap_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1674/trunk/dim3BaseUtility/Sources/base_bitmap_main.c
+END
+base_math_area.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_area.c
+END
+base_iface_mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1803/trunk/dim3BaseUtility/Sources/base_iface_mark.c
+END
+base_math_angles.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_angles.c
+END
+base_math_polygons.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1662/trunk/dim3BaseUtility/Sources/base_math_polygons.c
+END
+base_iface_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1947/trunk/dim3BaseUtility/Sources/base_iface_interface.c
+END
+base_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_strings.c
+END
+base_math_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_random.c
+END
+base_iface_chooser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1962/trunk/dim3BaseUtility/Sources/base_iface_chooser.c
+END
+base_math_rotations.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_rotations.c
+END
+base_iface_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_shader.c
+END
+base_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1809/trunk/dim3BaseUtility/Sources/base_time.c
+END
+base_iface_simple_save.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_simple_save.c
+END
+base_iface_score.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_score.c
+END
+base_math_distance.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_distance.c
+END
+base_file_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_file_search.c
+END
+base_bitmap_pngutility.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1620/trunk/dim3BaseUtility/Sources/base_bitmap_pngutility.c
+END
+base_iface_label.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1854/trunk/dim3BaseUtility/Sources/base_iface_label.c
+END
+base_lines.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_lines.c
+END
+base_iface_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1947/trunk/dim3BaseUtility/Sources/base_iface_main.c
+END
+base_file_paths.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_file_paths.c
+END
+base_bitmap_textures.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1831/trunk/dim3BaseUtility/Sources/base_bitmap_textures.c
+END
+base_iface_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_sound.c
+END
+base_bitmap_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1891/trunk/dim3BaseUtility/Sources/base_bitmap_text.c
+END
+base_ag_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2054/trunk/dim3BaseUtility/Sources/base_ag_bitmap.c
+END
+base_iface_singleplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1753/trunk/dim3BaseUtility/Sources/base_iface_singleplayer.c
+END
+base_iface_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1803/trunk/dim3BaseUtility/Sources/base_iface_ring.c
+END
+base_iface_particle.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1803/trunk/dim3BaseUtility/Sources/base_iface_particle.c
+END
+base_iface_halos.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_halos.c
+END
+base_iface_multiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1617/trunk/dim3BaseUtility/Sources/base_iface_multiplayer.c
+END
+base_xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1710/trunk/dim3BaseUtility/Sources/base_xml.c
+END
+base_math_acceleration.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_math_acceleration.c
+END
+base_zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1517/trunk/dim3BaseUtility/Sources/base_zip.c
+END

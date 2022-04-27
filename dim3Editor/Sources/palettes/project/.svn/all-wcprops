@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1962/trunk/dim3Editor/Sources/palettes/project
+END
+project_palette_title_page_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_title_page_model.c
+END
+project_palette_singleplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_singleplayer.c
+END
+project_palette_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_ring.c
+END
+project_palette_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1806/trunk/dim3Editor/Sources/palettes/project/project_palette_setup.c
+END
+project_palette_actions.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_actions.c
+END
+project_palette_chooser.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1962/trunk/dim3Editor/Sources/palettes/project/project_palette_chooser.c
+END
+project_palette_labels.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1854/trunk/dim3Editor/Sources/palettes/project/project_palette_labels.c
+END
+project_palette_particle.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_particle.c
+END
+project_palette_progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1817/trunk/dim3Editor/Sources/palettes/project/project_palette_progress.c
+END
+project_palette_hud_bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_hud_bar.c
+END
+project_palette_chooser_piece.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1962/trunk/dim3Editor/Sources/palettes/project/project_palette_chooser_piece.c
+END
+project_palette_title_page_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1848/trunk/dim3Editor/Sources/palettes/project/project_palette_title_page_button.c
+END
+project_palette_hud_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1860/trunk/dim3Editor/Sources/palettes/project/project_palette_hud_bitmap.c
+END
+project_palette_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_action.c
+END
+project_palette_label.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1855/trunk/dim3Editor/Sources/palettes/project/project_palette_label.c
+END
+project_palette_group_particle.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_group_particle.c
+END
+project_palette_particle_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_particle_group.c
+END
+project_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1855/trunk/dim3Editor/Sources/palettes/project/project_palette.c
+END
+project_palette_crosshairs.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_crosshairs.c
+END
+project_palette_virtual_control_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_virtual_control_button.c
+END
+project_palette_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1860/trunk/dim3Editor/Sources/palettes/project/project_palette_devices.c
+END
+project_palette_menu_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_menu_item.c
+END
+project_palette_multiplayer_character.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_multiplayer_character.c
+END
+project_palette_virtual_control_stick.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_virtual_control_stick.c
+END
+project_palette_editor_preference.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_editor_preference.c
+END
+project_palette_choosers.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1916/trunk/dim3Editor/Sources/palettes/project/project_palette_choosers.c
+END
+project_palette_singleplayer_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1753/trunk/dim3Editor/Sources/palettes/project/project_palette_singleplayer_option.c
+END
+project_palette_virtual_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_virtual_control.c
+END
+project_palette_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_sound.c
+END
+project_palette_radar.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_radar.c
+END
+project_palette_mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_mark.c
+END
+project_palette_crosshair.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_crosshair.c
+END
+project_palette_multiplayer_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_multiplayer_option.c
+END
+project_palette_multiplayer_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_multiplayer_game.c
+END
+project_palette_logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_logo.c
+END
+project_palette_settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1947/trunk/dim3Editor/Sources/palettes/project/project_palette_settings.c
+END
+project_palette_radar_icon.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_radar_icon.c
+END
+project_palette_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1749/trunk/dim3Editor/Sources/palettes/project/project_palette_menu.c
+END
+project_palette_halos.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_halos.c
+END
+project_palette_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_shader.c
+END
+project_palette_multiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1771/trunk/dim3Editor/Sources/palettes/project/project_palette_multiplayer.c
+END
+project_palette_sounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_sounds.c
+END
+project_palette_marks.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_marks.c
+END
+project_palette_title_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1848/trunk/dim3Editor/Sources/palettes/project/project_palette_title_page.c
+END
+project_palette_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_color.c
+END
+project_palette_hud.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1860/trunk/dim3Editor/Sources/palettes/project/project_palette_hud.c
+END
+project_palette_rings.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_rings.c
+END
+project_palette_halo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_halo.c
+END
+project_palette_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1855/trunk/dim3Editor/Sources/palettes/project/project_palette_main.c
+END
+project_palette_hud_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1860/trunk/dim3Editor/Sources/palettes/project/project_palette_hud_text.c
+END
+project_palette_particles.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1803/trunk/dim3Editor/Sources/palettes/project/project_palette_particles.c
+END
+project_palette_menus.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_menus.c
+END
+project_palette_preload_models.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/palettes/project/project_palette_preload_models.c
+END
+project_palette_shaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1798/trunk/dim3Editor/Sources/palettes/project/project_palette_shaders.c
+END

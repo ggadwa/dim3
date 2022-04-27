@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2045/trunk/dim3Editor/Headers
+END
+glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1726/trunk/dim3Editor/Headers/glue.h
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2044/trunk/dim3Editor/Headers/interface.h
+END
+dim3editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2039/trunk/dim3Editor/Headers/dim3editor.h
+END
+editor_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2044/trunk/dim3Editor/Headers/editor_defs.h
+END

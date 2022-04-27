@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1946/trunk/dim3RTEngine/Sources_RTL
+END
+ray_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_RTL/ray_main.c
+END
+ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1945/trunk/dim3RTEngine/Sources_RTL/ray.h
+END
+ray_os_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_RTL/ray_os_defs.h
+END
+ray_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1942/trunk/dim3RTEngine/Sources_RTL/ray_math.c
+END
+ray_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1942/trunk/dim3RTEngine/Sources_RTL/ray_mesh.c
+END
+ray_scene.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1945/trunk/dim3RTEngine/Sources_RTL/ray_scene.c
+END
+ray_material.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1936/trunk/dim3RTEngine/Sources_RTL/ray_material.c
+END
+ray_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1936/trunk/dim3RTEngine/Sources_RTL/ray_interface.h
+END
+ray_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1943/trunk/dim3RTEngine/Sources_RTL/ray_thread.c
+END
+ray_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1936/trunk/dim3RTEngine/Sources_RTL/ray_light.c
+END
+ray_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_RTL/ray_types.h
+END
+ray_precalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1946/trunk/dim3RTEngine/Sources_RTL/ray_precalc.c
+END
+ray_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_RTL/ray_color.c
+END
+ray_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1945/trunk/dim3RTEngine/Sources_RTL/ray_render.c
+END
+ray_eye.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1919/trunk/dim3RTEngine/Sources_RTL/ray_eye.c
+END

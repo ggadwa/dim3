@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/common
+END
+dialog_file_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/common/dialog_file_open.c
+END
+dialog_property_chord.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/common/dialog_property_chord.c
+END
+dialog_scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/common/dialog_scale.c
+END
+dialog_property_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1711/trunk/dim3Editor/Sources/dialogs/common/dialog_property_string.c
+END

@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2029/trunk/dim3Engine/Sources_View
+END
+render_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2029/trunk/dim3Engine/Sources_View/render_model.c
+END
+input_touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1912/trunk/dim3Engine/Sources_View/input_touch.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1982/trunk/dim3Engine/Sources_View/console.c
+END
+radar_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1803/trunk/dim3Engine/Sources_View/radar_draw.c
+END
+gl_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/gl_text.c
+END
+sky.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/sky.c
+END
+input_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1831/trunk/dim3Engine/Sources_View/input_mouse.c
+END
+decals_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/decals_draw.c
+END
+crosshair_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/crosshair_draw.c
+END
+chooser_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1962/trunk/dim3Engine/Sources_View/chooser_draw.c
+END
+al_play.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1616/trunk/dim3Engine/Sources_View/al_play.c
+END
+gl_back_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1883/trunk/dim3Engine/Sources_View/gl_back_render.c
+END
+metrics_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1669/trunk/dim3Engine/Sources_View/metrics_draw.c
+END
+singleplayer_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1983/trunk/dim3Engine/Sources_View/singleplayer_option.c
+END
+gl_renderer.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1984/trunk/dim3Engine/Sources_View/gl_renderer.c
+END
+rain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/rain.c
+END
+setup_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1922/trunk/dim3Engine/Sources_View/setup_game.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1852/trunk/dim3Engine/Sources_View/error.c
+END
+view_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/view_setup.c
+END
+join.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2011/trunk/dim3Engine/Sources_View/join.c
+END
+gl_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1658/trunk/dim3Engine/Sources_View/gl_check.c
+END
+halo_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/halo_draw.c
+END
+gl_shader_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1922/trunk/dim3Engine/Sources_View/gl_shader_core.c
+END
+view_vertex_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1668/trunk/dim3Engine/Sources_View/view_vertex_list.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1985/trunk/dim3Engine/Sources_View/files.c
+END
+ambients.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1980/trunk/dim3Engine/Sources_View/ambients.c
+END
+score_limit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1652/trunk/dim3Engine/Sources_View/score_limit.c
+END
+hand.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1752/trunk/dim3Engine/Sources_View/hand.c
+END
+player_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2013/trunk/dim3Engine/Sources_View/player_input.c
+END
+al_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/al_setup.c
+END
+cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1800/trunk/dim3Engine/Sources_View/cursor.c
+END
+host.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1986/trunk/dim3Engine/Sources_View/host.c
+END
+simple_save_pick.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1917/trunk/dim3Engine/Sources_View/simple_save_pick.c
+END
+input_joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1517/trunk/dim3Engine/Sources_View/input_joystick.c
+END
+input_keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1914/trunk/dim3Engine/Sources_View/input_keyboard.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1984/trunk/dim3Engine/Sources_View/chat.c
+END
+menu_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1914/trunk/dim3Engine/Sources_View/menu_draw.c
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1896/trunk/dim3Engine/Sources_View/gui.c
+END
+view_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/view_draw.c
+END
+gl_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/gl_light.c
+END
+effects_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/effects_draw.c
+END
+render_map_transparent.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2029/trunk/dim3Engine/Sources_View/render_map_transparent.c
+END
+rings_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/rings_draw.c
+END
+gl_frames.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/dim3Engine/Sources_View/gl_frames.c
+END
+view_images.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1922/trunk/dim3Engine/Sources_View/view_images.c
+END
+zoom_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1657/trunk/dim3Engine/Sources_View/zoom_draw.c
+END
+particles_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/particles_draw.c
+END
+progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1896/trunk/dim3Engine/Sources_View/progress.c
+END
+network_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1976/trunk/dim3Engine/Sources_View/network_draw.c
+END
+gl_shader_fullscreen.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1823/trunk/dim3Engine/Sources_View/gl_shader_fullscreen.c
+END
+tint.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1652/trunk/dim3Engine/Sources_View/tint.c
+END
+label.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1976/trunk/dim3Engine/Sources_View/label.c
+END
+console_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1982/trunk/dim3Engine/Sources_View/console_draw.c
+END
+title.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1757/trunk/dim3Engine/Sources_View/title.c
+END
+render_map_liquid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/render_map_liquid.c
+END
+view_bounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1964/trunk/dim3Engine/Sources_View/view_bounds.c
+END
+al_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1913/trunk/dim3Engine/Sources_View/al_buffer.c
+END
+gl_shader_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/gl_shader_user.c
+END
+gl_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1964/trunk/dim3Engine/Sources_View/gl_shader.c
+END
+al_ambient.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1517/trunk/dim3Engine/Sources_View/al_ambient.c
+END
+al_music.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1617/trunk/dim3Engine/Sources_View/al_music.c
+END
+view_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/view_run.c
+END
+elemets.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2010/trunk/dim3Engine/Sources_View/elemets.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1820/trunk/dim3Engine/Sources_View/input.c
+END
+fade.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1648/trunk/dim3Engine/Sources_View/fade.c
+END
+gl_shader_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/gl_shader_simple.c
+END
+view_primitive.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1877/trunk/dim3Engine/Sources_View/view_primitive.c
+END
+virtual_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1815/trunk/dim3Engine/Sources_View/virtual_draw.c
+END
+view.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1922/trunk/dim3Engine/Sources_View/view.c
+END
+gl_shader_execute.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1964/trunk/dim3Engine/Sources_View/gl_shader_execute.c
+END
+fog.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1827/trunk/dim3Engine/Sources_View/fog.c
+END
+load_pause.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1617/trunk/dim3Engine/Sources_View/load_pause.c
+END
+gl_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1825/trunk/dim3Engine/Sources_View/gl_texture.c
+END
+render_shadow.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1878/trunk/dim3Engine/Sources_View/render_shadow.c
+END
+render_map_opaque.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1883/trunk/dim3Engine/Sources_View/render_map_opaque.c
+END
+intro.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1848/trunk/dim3Engine/Sources_View/intro.c
+END
+cinema.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1963/trunk/dim3Engine/Sources_View/cinema.c
+END
+view_obscure.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1878/trunk/dim3Engine/Sources_View/view_obscure.c
+END
+hud_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1861/trunk/dim3Engine/Sources_View/hud_draw.c
+END
+view_vertex_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1824/trunk/dim3Engine/Sources_View/view_vertex_object.c
+END
+view_draw_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1822/trunk/dim3Engine/Sources_View/view_draw_debug.c
+END
